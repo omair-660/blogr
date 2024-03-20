@@ -284,7 +284,7 @@ nav .hum span {
   }
 }
 
-@media (max-width:932px) {
+@media (max-width:935px) {
   nav .hum{
 display: block;
 }
@@ -354,7 +354,7 @@ div#linkss {
 .end a:hover {
     color: #ff4256;
 }
-@media (max-width:932px){ 
+@media (max-width:767px){ 
   .footer .contaner{
     text-align: center;
   }
