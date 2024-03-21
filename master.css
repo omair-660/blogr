@@ -284,7 +284,7 @@ nav .hum span {
   }
 }
 
-@media (max-width:935px) {
+@media (max-width:979px) {
   nav .hum{
 display: block;
 }
